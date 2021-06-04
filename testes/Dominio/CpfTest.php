@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Testes;
+namespace App\Testes\Dominio;
 
 use App\Dominio\Cpf;
 use PHPUnit\Framework\TestCase;
